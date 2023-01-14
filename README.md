@@ -2,8 +2,8 @@
 
 Hi :] This code was made entirely by Megan Lang!
 
-If you try to run this code as is, it won't work because the token is outdated! This is a safety feature employed by Discord. If you are my professor and wish
-to run this code, please email me and I will send you the current token. 
+If you try to run this code as is, it won't work because the token is outdated! This is a safety feature employed by Discord. If you are viewing this and wish
+to run this code, please email me and I will send you the current token. If you do not have my email already, please do not contact me.
 
 A basic description of this program: 
 1. The main.py code calls the run_bot function, which is stored in bot.py. This is the active run-time function.
